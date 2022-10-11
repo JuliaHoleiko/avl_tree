@@ -1,2 +1,3 @@
 # avl_tree
-laba1 algorithms 
+algorithm labs
+
